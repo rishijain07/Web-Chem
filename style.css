@@ -17,7 +17,7 @@ h1{
     /*background-image: radial-gradient(rgb(177, 119, 253),  rgb(253, 255, 139));*/
     padding-top: 20px;
     padding-bottom: 20px;
-    background-image: url("/assests/lab.jfif");
+    background-image: url("assests/lab.jfif");
     background-position: 20%;
 }
 .input-left{
@@ -42,7 +42,7 @@ h1{
     border-radius: 25px;
   }
 body{
-    background-image: url("/assests/bg1.jfif");
+    background-image: url("assests/bg1.jfif");
     background-size: 100%;
 }
 .result {
